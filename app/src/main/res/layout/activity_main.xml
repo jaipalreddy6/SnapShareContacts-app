@@ -13,7 +13,7 @@
         android:layout_height="0dp"
         android:backgroundTint="#4CAF50"
         android:backgroundTintMode="add"
-        android:text="@string/show_my_qr"
+        android:text="Show My QR"
         android:textAlignment="inherit"
         android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
